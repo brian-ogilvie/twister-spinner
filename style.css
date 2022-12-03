@@ -1,0 +1,27 @@
+.result {
+  display: flex;
+  justify-content: flex-start;
+  grid-gap: 12px;
+  margin-bottom: 12px;
+}
+
+.readout {
+  font-size: 42px;
+  width: 220px;
+  height: 220px;
+  text-align: center;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  font-size: x-large;
+  margin: 8px;
+}
+
+.seconds {
+  font-size: x-large;
+  width: 50px;
+}
